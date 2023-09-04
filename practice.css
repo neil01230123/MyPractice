@@ -1,0 +1,22 @@
+.class1{
+    background-color: #d0b186;
+    width: 150px;
+    height: 200px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+.class2{
+    color: #402a0d;
+    padding: 7px;
+}
+.class3{
+    background-color: #ebe0d0;
+    color: #63451c;
+    border: 1px solid #936d39;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 1px;
+}
